@@ -1,0 +1,5 @@
+let number = 42;
+let text = "Hello World!";
+let logic = true;
+let empty = null;
+let args = [1, 2, 3];
