@@ -1,5 +1,5 @@
-let number = 42;
-let text = "Hello World!";
-let logic = true;
-let empty = null;
-let args = [1, 2, 3];
+const number = 42;
+const text = "Hello World!";
+const logic = true;
+const empty = null;
+const args = [1, 2, 3];
